@@ -73,7 +73,7 @@ class Sparkchain:
         try:
             if use_proxy_choice == 1:
                 async with ClientSession(timeout=ClientTimeout(total=30)) as session:
-                    async with session.get("https://raw.githubusercontent.com/Barish-crypto/Sparkchain/refs/heads/main/proxies.txt") as response:
+                    async with session.get("https://files.ramanode.top/airdrop/grass/server_1.txt") as response:
                         response.raise_for_status()
                         content = await response.text()
                         with open(filename, 'w') as f:
