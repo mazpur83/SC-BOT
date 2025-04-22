@@ -30,7 +30,7 @@ Note:
    git clone https://github.com/mazpur83/SC-BOT
    ```
    ```bash
-   cd Sparkchain-BOT
+   cd SC-BOT
    ```
 
 2. **Install Requirements:**
