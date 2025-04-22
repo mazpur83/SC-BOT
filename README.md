@@ -27,7 +27,7 @@ Note:
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/Sparkchain-BOT.git
+   git clone https://github.com/mazpur83/SC-BOT
    ```
    ```bash
    cd Sparkchain-BOT
